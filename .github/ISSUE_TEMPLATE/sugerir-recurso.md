@@ -2,7 +2,7 @@
 name: Sugerir recurso
 about: Nos indique uma ideia que pode ser integrada no projeto.
 title: ''
-labels: Baixa, Desenvolvimento, Sugestão
+labels: 'Prioridade: Baixa, Área: Desenvolvimento, Tipo: Sugestão'
 assignees: ''
 
 ---

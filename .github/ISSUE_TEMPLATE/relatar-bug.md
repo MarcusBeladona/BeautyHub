@@ -2,7 +2,7 @@
 name: Relatar bug
 about: Ajude-nos a melhorar o projeto.
 title: ''
-labels: Baixa, Desenvolvimento, Relato, Trivial
+labels: 'Bug: Trivial, Prioridade: Baixa, Tipo: Relato, Área: Desenvolvimento'
 assignees: ''
 
 ---
