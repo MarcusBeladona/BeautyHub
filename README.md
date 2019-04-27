@@ -1,2 +1,2 @@
 # BeautyHub
-Repositório dedicado a organização e gerenciação de versionamento online.
+Repositório dedicado a organização e gerenciamento de versionamento online.
